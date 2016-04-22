@@ -1,0 +1,62 @@
+# paths to clean #
+/Users/thomaslemqvist/Downloads/
+/Users/thomaslemqvist/Desktop/
+#
+# file extensions & destinations #
+#
+# undefined extensions #
+.*          /Users/thomaslemqvist/Documents/random/other
+# folders #
+.folder     /Users/thomaslemqvist/Documents/random/moved_folders/
+# Windows installers #
+.exe        /Users/thomaslemqvist/Documents/random/installers/exe
+.msi        /Users/thomaslemqvist/Documents/random/installers/msi
+# OS X installers #
+.dmg        /Users/thomaslemqvist/Documents/random/installers/dmg
+.app        /Users/thomaslemqvist/Documents/random/installers/applications
+.pkg        /Users/thomaslemqvist/Documents/random/installers/pkg
+# pictures #
+.png        /Users/thomaslemqvist/Pictures/random
+.jpeg       /Users/thomaslemqvist/Pictures/random
+.jpg        /Users/thomaslemqvist/Pictures/random
+.gif        /Users/thomaslemqvist/Pictures/random
+# documents #
+.txt        /Users/thomaslemqvist/Documents/random/dokumenter/txt
+.rtf        /Users/thomaslemqvist/Documents/random/dokumenter/rtf
+.pdf        /Users/thomaslemqvist/Documents/random/dokumenter/pdf
+.doc        /Users/thomaslemqvist/Documents/random/dokumenter/doc
+.docx       /Users/thomaslemqvist/Documents/random/dokumenter/doc
+.ppt        /Users/thomaslemqvist/Documents/random/dokumenter/ppt
+.pptx       /Users/thomaslemqvist/Documents/random/dokumenter/ppt
+.xls        /Users/thomaslemqvist/Documents/random/dokumenter/xls
+.xlsx       /Users/thomaslemqvist/Documents/random/dokumenter/xls
+.tex        /Users/thomaslemqvist/Documents/random/dokumenter/tex
+# archives #
+.zip        /Users/thomaslemqvist/Documents/random/arkiver
+.gz         /Users/thomaslemqvist/Documents/random/arkiver
+.tar        /Users/thomaslemqvist/Documents/random/arkiver
+.rar        /Users/thomaslemqvist/Documents/random/arkiver
+.7z         /Users/thomaslemqvist/Documents/random/arkiver
+# movies & related files #
+.mp4        /Users/thomaslemqvist/Movies/random
+.avi        /Users/thomaslemqvist/Movies/random
+.mpeg       /Users/thomaslemqvist/Movies/random
+.mov        /Users/thomaslemqvist/Movies/random
+.srt        /Users/thomaslemqvist/Movies/random/subtitles
+# music #
+.mp3        /Users/thomaslemqvist/Music/random
+.waw        /Users/thomaslemqvist/Music/random
+.flac       /Users/thomaslemqvist/Music/random
+# programming related files #
+.py         /Users/thomaslemqvist/Documents/random/programming/python
+.jar        /Users/thomaslemqvist/Documents/random/programming/java/jars
+.java       /Users/thomaslemqvist/Documents/random/programming/java
+.html       /Users/thomaslemqvist/Documents/random/programming/web/html
+.js         /Users/thomaslemqvist/Documents/random/programming/web/javascript
+.php        /Users/thomaslemqvist/Documents/random/programming/web/php
+.cs         /Users/thomaslemqvist/Documents/random/programming/Csharp
+# to be deleted - add prefix 'd' #
+d.torrent
+d.nfo
+d.dat
+d.download
